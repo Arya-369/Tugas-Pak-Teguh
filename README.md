@@ -96,14 +96,6 @@ PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas>
 
 TABEL RANCANGAN FUNGSI NOMOR 1
 
-Nama                             Fungsi	                parameter	                              Mekanisme pengembalian nilai		  Tugas
-		                                                                                            Void	              Non Void	
-hitung_nilai_akhir	          tugas, uts, uas		                                                                  ✓	              Menghitung nilai akhir dari total bobot masing masing penilaian
-nilai_huruf	nilai_akhir		✓	Mengkategorikan nilai berdasarkan tingkatan huruf alphabet "A" sampai "E"
-penentu_lulus	nilai_huruf		✓	Menentukan status kelulusan berdasarkan batasan nilai yang ditentukan
-hitung_rata_rata	total, jumlah		✓	Menghitung rata-rata nilai kelas
-jumlah_mahasiswa_lulus	data		✓	Menghitung jumlah mahasiswa yang lulus
-rekap	data	✓		Menampilkan tabel rekap nilai mahasiswa
 <img width="1046" height="162" alt="image" src="https://github.com/user-attachments/assets/78f7f1cf-f02c-4d0c-a280-24c1e3abc65a" />
 
 

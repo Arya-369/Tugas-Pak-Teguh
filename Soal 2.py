@@ -41,10 +41,10 @@ batas_berat_dasar = 2
 # Mata uang (Rupiah(Rp))
 biaya_lanjutan_per_kilo = 4_000
 
-# Satuan jarak (Kilometer(Km))
+# Satuan jarak (Kilometer(Km))(Untuk bagian d variabel ini yang menentukan batas gratis untuk jarak nominal kebawah)
 batas_gratis_jarak_maximum = 20
 
-# Mata uang (Rupiah(Rp))
+# Mata uang (Rupiah(Rp))(Untuk bagian d variabel ini yang mengatur nominal harga yang ditentukan setelah melewati  batas gratis untuk jarak nominal kebawah)
 biaya_jarak_lanjutan = 5_000
 
 # Diskom langganan Keanggotaan

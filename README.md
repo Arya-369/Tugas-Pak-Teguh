@@ -96,6 +96,8 @@ PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas>
 
 TABEL RANCANGAN FUNGSI NOMOR 1
 
-
+Nama	Nilai Akhir	Nilai Huruf	Status
+Andi	81.0	B	Lulus
+Dimas	72.5	B	Lulus
 
 

@@ -77,14 +77,12 @@ Andi	81.0	B	Lulus
 Dimas	72.5	B	Lulus
 
 PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas> & 'C:\Users\Divine Diva\AppData\Local\Programs\Python\Python314\python.exe' '"e:/FE 25/Folder Tugas/Algoritma pemrograman dasar/Kumpulan Tugas/Tugas 1/Jawaban Soal 1/Soal 1.py"'
-
 nama nilai_akhir nilai_huruf status
 Andi 81.0BLulus
 Bunga 87.7ALulus
 Citra 51.5DTidak Lulus
 Dimas 72.5BLulus
 Eka 35.0ETidak Lulus
-
 --------------------------------------------------
 Rata-rata nilai kelas : 65.54
 Jumlah mahasiswa lulus: 3

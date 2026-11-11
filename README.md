@@ -213,3 +213,12 @@ Potongan:  15.000 x 10% = 1.500
 
 Ongkir akhir: 15.000 - 1.500 = 13.500
 
+Perbandingan dengan keluaran program
+
+PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas> & 'C:\Users\Divine Diva\AppData\Local\Programs\Python\Python314\python.exe' '"e:/FE 25/Folder Tugas/Algoritma pemrograman dasar/Kumpulan Tugas/Tugas 1/Jawaban Soal 2/Soal 2.py"'
+
+
+
+TOTAL PENDAPATAN HARI INI
+Rp 46,809.6
+

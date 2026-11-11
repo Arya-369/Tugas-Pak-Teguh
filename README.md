@@ -90,18 +90,6 @@ Nilai tertinggi diperoleh oleh: Bunga
 Nilai akhirnya: 87.70
 PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas>
 
-
-
-
-
-
-
-
-
-SOAL NOMOR 2
-
-
-
 TABEL RANCANGAN FUNGSI NOMOR 1
 
 <img width="1046" height="162" alt="image" src="https://github.com/user-attachments/assets/78f7f1cf-f02c-4d0c-a280-24c1e3abc65a" />
@@ -127,4 +115,30 @@ TABEL RANCANGAN FUNGSI NOMOR 2
 <img width="1192" height="142" alt="image" src="https://github.com/user-attachments/assets/0a863df9-96dd-4491-8d56-97dda8c2bf29" />
 
 
+Biaya dasar berat hingga 2 kg = Rp10.000.
 
+Tambahan setiap kg di atas 2 kg = Rp4.000.
+
+Tambahan jarak lebih dari 20 km = Rp5.000.
+
+Diskon anggota = 10%.
+
+
+
+Sari
+
+Berat = 5 kg
+Jarak = 25 km
+Anggota = Bukan
+
+
+Perhitungan:
+
+Biaya berat:  10.000 + (5-2) x 4.000=22.000
+
+Biaya jarak:   25 > 20 = 5.000
+
+
+Potongan = Rp0.
+
+Ongkir akhir:  22.000+5.000=\boxed{27.000}

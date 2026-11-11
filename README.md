@@ -135,10 +135,27 @@ Anggota = Bukan
 Perhitungan:
 
 Biaya berat:  10.000 + (5-2) x 4.000=22.000
-
 Biaya jarak:   25 > 20 = 5.000
-
 
 Potongan = Rp0.
 
-Ongkir akhir:  22.000+5.000=\boxed{27.000}
+Ongkir akhir:  22.000 + 5.000 = 27.000
+
+
+Tono
+
+- Berat = 5 kg
+- Jarak = 25 km
+- Anggota = Ya
+
+Perhitungan:
+
+Biaya berat = Rp22.000.
+
+Biaya jarak = Rp5.000.
+
+Subtotal:  22.000+5.000=27.000
+
+Potongan:  27.000 x 10% =2.700
+
+Ongkir akhir:  27.000 - 2.700 = 24.300

@@ -217,8 +217,64 @@ Perbandingan dengan keluaran program
 
 PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas> & 'C:\Users\Divine Diva\AppData\Local\Programs\Python\Python314\python.exe' '"e:/FE 25/Folder Tugas/Algoritma pemrograman dasar/Kumpulan Tugas/Tugas 1/Jawaban Soal 2/Soal 2.py"'
 
+========== STRUK PENGIRIMAN ==========
+Nama Pelanggan : Rina
+Berat Paket    : 1 kg
+Jarak          : 10 km
+Biaya Berat    : Rp 10,000
+Biaya Jarak    : Rp 0
+Potongan       : Rp 0
+Ongkir Akhir   : Rp 10,000
+======================================
 
+========== STRUK PENGIRIMAN ==========
+Nama Pelanggan : Sari
+Berat Paket    : 5 kg
+Jarak          : 25 km
+Biaya Berat    : Rp 22,000
+Biaya Jarak    : Rp 5,000
+Potongan       : Rp 0
+Ongkir Akhir   : Rp 27,000
+======================================
+
+========== STRUK PENGIRIMAN ==========
+Nama Pelanggan : Tono
+Berat Paket    : 5 kg
+Jarak          : 25 km
+Biaya Berat    : Rp 22,000
+Biaya Jarak    : Rp 5,000
+Potongan       : Rp 2,700.0
+Ongkir Akhir   : Rp 24,300.0
+======================================
+
+========== STRUK PENGIRIMAN ==========
+Nama Pelanggan : Umar
+Berat Paket    : 2 kg
+Jarak          : 30 km
+Biaya Berat    : Rp 10,000
+Biaya Jarak    : Rp 5,000
+Potongan       : Rp 1,500.0
+Ongkir Akhir   : Rp 13,500.0
+======================================
+
+========== STRUK PENGIRIMAN ==========
+Nama Pelanggan : Vina
+Berat Paket    : 8 kg
+Jarak          : 15 km
+Biaya Berat    : Rp 34,000
+Biaya Jarak    : Rp 0
+Potongan       : Rp 0
+Ongkir Akhir   : Rp 34,000
+======================================
 
 TOTAL PENDAPATAN HARI INI
-Rp 46,809.6
+Rp 108,800.0
+PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas> 
+
+
+"batas jarak menjadi 15 km dan biaya tambahan jarak menjadi
+Rp7.000"
+
+Dari cuplikan kalimat diatas bisa disimpulkan kepada 2 variabel yaitu "batas_gratis_jarak_maximum" yang diubah ke 15km dan "biaya_jarak_lanjutan" untuk penerapan biaya melewati  "batas_gratis_jarak_maximum" menjadi Rp 7.000
+
 

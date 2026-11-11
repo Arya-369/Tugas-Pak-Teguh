@@ -111,6 +111,42 @@ TABEL RANCANGAN FUNGSI NOMOR 1
 
 SOAL NOMOR 2
 
+Soal 2: Struk Pengiriman Toko Daring
+Sebuah toko daring menentukan ongkos kirim berdasarkan berat paket (bilangan bulat, dalam
+kg) dan jarak pengiriman (dalam km).
+• Biaya berat: Rp10.000 untuk paket hingga 2 kg. Untuk setiap kg selebihnya ditambah
+Rp4.000.
+• Biaya jarak: tidak ada biaya tambahan jika jarak tidak lebih dari 20 km, dan Rp5.000 jika
+jarak lebih dari 20 km.
+• Ongkos kirim adalah jumlah biaya berat dan biaya jarak. Pelanggan yang berstatus anggota
+mendapat potongan 10% dari ongkos kirim.
+Toko memiliki daftar pesanan hari ini sebagai berikut.
+Pelanggan Berat (kg) Jarak (km) Anggota
+Rina        1           10       Bukan
+Sari        5           25       Bukan
+Tono        5           25        Ya
+Umar        2           30        Ya
+Vina        8           15       Bukan
+
+
+
+(a)Tulislah program yang mencetak struk untuk setiap pesanan, berisi nama pelanggan, biaya
+berat, biaya jarak, potongan (jika ada), dan ongkos kirim akhir. Setelah semua struk, cetak
+total pendapatan ongkos kirim hari ini.
+(b)Rancang pembagian program ke dalam fungsi-fungsi. Seperti pada Soal 1, sertakan tabel
+rancangan fungsi (nama fungsi, parameter, mengembalikan nilai atau tidak, tugas yang
+dikerjakan). Terdapat sedikitnya satu fungsi void dan satu fungsi non-void.
+(c)Tentukan secara manual ongkos kirim akhir untuk pesanan Sari, Tono, dan Umar, lalu
+buktikan bahwa program Anda memberikan hasil yang sama.
+(d)Toko mengubah kebijakan: batas jarak menjadi 15 km dan biaya tambahan jarak menjadi
+Rp7.000. Tunjukkan bagian kode yang harus Anda ubah. Jika Anda harus mengubah
+lebih dari satu tempat untuk satu perubahan aturan, jelaskan bagaimana pengelompokan
+kode dapat diperbaiki.
+
+
+
+JAWABAN SOAL NOMOR 2
+
 TABEL RANCANGAN FUNGSI NOMOR 2
 <img width="1192" height="142" alt="image" src="https://github.com/user-attachments/assets/0a863df9-96dd-4491-8d56-97dda8c2bf29" />
 
@@ -134,7 +170,7 @@ Anggota = Bukan
 
 Perhitungan:
 
-Biaya berat:  10.000 + (5-2) x 4.000=22.000
+Biaya berat:  10.000 + (5-2) x 4.000 = 22.000
 Biaya jarak:   25 > 20 = 5.000
 
 Potongan = Rp0.
@@ -151,7 +187,6 @@ Tono
 Perhitungan:
 
 Biaya berat = Rp22.000.
-
 Biaya jarak = Rp5.000.
 
 Subtotal:  22.000+5.000=27.000
@@ -159,3 +194,22 @@ Subtotal:  22.000+5.000=27.000
 Potongan:  27.000 x 10% =2.700
 
 Ongkir akhir:  27.000 - 2.700 = 24.300
+
+
+
+Umar
+
+- Berat = 2 kg
+- Jarak = 30 km
+- Anggota = Ya
+Perhitungan:
+
+Biaya berat = Rp10.000.
+Biaya jarak = Rp5.000.
+
+Subtotal:  10.000 + 5.000 = 15.000
+
+Potongan:  15.000 x 10% = 1.500
+
+Ongkir akhir: 15.000 - 1.500 = 13.500
+

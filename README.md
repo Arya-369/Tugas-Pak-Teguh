@@ -92,7 +92,17 @@ PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas>
 
 
 
-TABEL RANCANGAN FUNGSI NOMOR 1
+
+
+
+
+
+
+SOAL NOMOR 2
+
+
+
+TABEL RANCANGAN FUNGSI NOMOR 2
 
 <img width="1046" height="162" alt="image" src="https://github.com/user-attachments/assets/78f7f1cf-f02c-4d0c-a280-24c1e3abc65a" />
 

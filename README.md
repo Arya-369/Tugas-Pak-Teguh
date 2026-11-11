@@ -38,6 +38,8 @@ kode pada bagian (b)
 
 Jawaban nomor satu 
 
+PERBANDINGAN NILAI ANDI DAN DIMAS SECARA MANUAL
+
 Nilai Andi
 
 Total nilai = (tugas x 30%) + (uts x 30%) + (uas x 40%)
@@ -68,24 +70,31 @@ Total nilai = 72,5
 Nilai akhir Dimas adalah 72,5, sehingga masuk kategori nilai huruf B dan dinyatakan Lulus.
 
 
-Perbandingan dengan output fungsi python
+PERBANDINGAN DENGAN OUTPUT PYTHON
 
-PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas> & 'C:\Users\Divine Diva\AppData\Local\Programs\Python\Python314\python.exe' '"e:/FE 25/Folder Tugas/Algoritma pemrograman dasar/Kumpulan Tugas/Soal 1.py"'
+Nama	Nilai Akhir	Nilai Huruf	Status
+Andi	81.0	B	Lulus
+Dimas	72.5	B	Lulus
+
+PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas> & 'C:\Users\Divine Diva\AppData\Local\Programs\Python\Python314\python.exe' '"e:/FE 25/Folder Tugas/Algoritma pemrograman dasar/Kumpulan Tugas/Tugas 1/Jawaban Soal 1/Soal 1.py"'
 
 nama nilai_akhir nilai_huruf status
-
 Andi 81.0BLulus
 Bunga 87.7ALulus
 Citra 51.5DTidak Lulus
 Dimas 72.5BLulus
 Eka 35.0ETidak Lulus
-
 --------------------------------------------------
-Rata-rata nilai kelas : 69.93
-Jumlah mahasiswa lulus: 7
+Rata-rata nilai kelas : 65.54
+Jumlah mahasiswa lulus: 3
+Nilai tertinggi diperoleh oleh: Bunga 
+Nilai akhirnya: 87.70
 PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas>
-Nama	Nilai Akhir	Nilai Huruf	Status
-Andi	81.0	B	Lulus
-Dimas	72.5	B	Lulus
+
+
+
+TABEL RANCANGAN FUNGSI NOMOR 1
+
+
 
 

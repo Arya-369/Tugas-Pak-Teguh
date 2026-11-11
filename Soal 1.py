@@ -57,12 +57,7 @@ def main():
         {"nama": "Bunga ", "tugas": 90, "uts": 85, "uas": 88},
         {"nama": "Citra ", "tugas": 60, "uts": 45, "uas": 50},
         {"nama": "Dimas ", "tugas": 75, "uts": 80, "uas": 65},
-        {"nama": "Eka ", "tugas": 30, "uts": 40, "uas": 35},
-        {"nama": "Orang 1 ", "tugas": 78, "uts": 67, "uas": 76},
-        {"nama": "Orang 2 ", "tugas": 50, "uts": 56, "uas": 98},
-        {"nama": "Orang 3 ", "tugas": 80, "uts": 84, "uas": 67},
-        {"nama": "Orang 4 ", "tugas": 70, "uts": 94, "uas": 79},
-        {"nama": "Anonimus", "tugas": 100, "uts": 100, "uas": 100}
+        {"nama": "Eka ", "tugas": 30, "uts": 40, "uas": 35}
     ]
 
 

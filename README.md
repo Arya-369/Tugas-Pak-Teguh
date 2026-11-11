@@ -83,7 +83,6 @@ Bunga 87.7ALulus
 Citra 51.5DTidak Lulus
 Dimas 72.5BLulus
 Eka 35.0ETidak Lulus
---------------------------------------------------
 Rata-rata nilai kelas : 65.54
 Jumlah mahasiswa lulus: 3
 Nilai tertinggi diperoleh oleh: Bunga 

@@ -36,7 +36,7 @@ tidak perlu disentuh sama sekali. Kaitkan jawaban Anda dengan cara Anda mengelom
 kode pada bagian (b)
 
 
-Jawaban nomor satu 
+JAWABAN NOMOR 1
 
 PERBANDINGAN NILAI ANDI DAN DIMAS SECARA MANUAL
 

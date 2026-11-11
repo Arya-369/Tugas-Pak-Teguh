@@ -71,12 +71,15 @@ Nilai akhir Dimas adalah 72,5, sehingga masuk kategori nilai huruf B dan dinyata
 Perbandingan dengan output fungsi python
 
 PS E:\FE 25\Folder Tugas\Algoritma pemrograman dasar\Kumpulan Tugas> & 'C:\Users\Divine Diva\AppData\Local\Programs\Python\Python314\python.exe' '"e:/FE 25/Folder Tugas/Algoritma pemrograman dasar/Kumpulan Tugas/Soal 1.py"'
+
 nama nilai_akhir nilai_huruf status
+
 Andi 81.0BLulus
 Bunga 87.7ALulus
 Citra 51.5DTidak Lulus
 Dimas 72.5BLulus
 Eka 35.0ETidak Lulus
+
 --------------------------------------------------
 Rata-rata nilai kelas : 69.93
 Jumlah mahasiswa lulus: 7
